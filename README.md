@@ -8,8 +8,9 @@ Build Your own ChatGPT with OpenAI API &amp; Gradio
    ```pip install gradio
       pip install openai
    ```
-4. run `python app.py`
-5. Go to the browser and open the link: http://127.0.0.1:7860/
+4. run  the code:
+   ```python app.py```
+6. Go to the browser and open the link: http://127.0.0.1:7860/
 
 
 ### Demo UI 
