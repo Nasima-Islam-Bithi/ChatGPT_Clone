@@ -19,6 +19,6 @@ Build Your own ChatGPT with OpenAI API &amp; Gradio
 ### Demo UI 
 | UI view                          |
 |--------------------------------------------------|
-| (UI_view.png) |
+| [UI_view.png](https://github.com/Nasima-Islam-Bithi/ChatGPT_Clone/blob/main/UI_view.png) |
 
 
