@@ -15,10 +15,9 @@ Build Your own ChatGPT with OpenAI API &amp; Gradio
    ```
 6. Go to the browser and open the link: http://127.0.0.1:7860/
 
+### Demo UI
 
-### Demo UI 
-| UI view                          |
-|--------------------------------------------------|
-|UI_view | ![UI_view.png](https://github.com/Nasima-Islam-Bithi/ChatGPT_Clone/blob/main/UI_view.png) |
+![UI view](https://github.com/Nasima-Islam-Bithi/ChatGPT_Clone/blob/main/UI_view.png)
+
 
 
