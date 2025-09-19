@@ -19,6 +19,6 @@ Build Your own ChatGPT with OpenAI API &amp; Gradio
 ### Demo UI 
 | UI view                          |
 |--------------------------------------------------|
-| (img1.png) |
+| (UI_view.png) |
 
 
